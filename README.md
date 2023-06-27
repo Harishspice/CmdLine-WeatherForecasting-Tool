@@ -39,7 +39,7 @@ python weather.py -h
 
 
 ## ARCHITECTURE OF THE MODEL
-![gth](https://github.com/Harishspice/Microsoft-Git-Copilot/assets/117935868/449f8ffe-89c8-4f0f-9772-345400c7f141)
+![image](https://github.com/Harishspice/Microsoft-Git-Copilot/assets/117935868/0ffcfaaf-cb8b-43a7-af8a-a679dd6eca7f)
 
 
 
