@@ -66,7 +66,7 @@ This project is licensed under the GNU General Public License v3.0 License - see
 ## Acknowledgments
 
 - Thanks to Github Copilot for providing a powerful foundation for this Tool.
-- [Harishspice](https://github.com/Harishspice) has created and maintaining this project.
+- [Harishspice](https://github.com/Harishspice) has created and is maintaining this project.
 
 ## Contact
 
